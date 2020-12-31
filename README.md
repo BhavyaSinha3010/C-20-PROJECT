@@ -1,2 +1,2 @@
-# C-20-PROJECT
+# GCSO
 GCSO
